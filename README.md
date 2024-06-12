@@ -1,5 +1,6 @@
 ## I am Currently working on this Project ##
 ## HOW TO RUN THIS PROJECT? ##
+#npm i-> to install dependencies #
 ## HERE ARE THE GLIMPSE OF MY PROJECT ##
 ![Login](https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/da90eccb-4d9d-4c0f-ad90-ab3ea734d779)
 ![register](https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/a9d07604-557a-414e-ba53-8c9502ea2cab)

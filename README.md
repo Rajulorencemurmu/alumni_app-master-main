@@ -24,7 +24,6 @@ If you are a Student/employee, or current or prospective student you are welcome
 12. You are good to go.. Now the problem will arise for expo.. try scanning the QR if not then try closing the app and try again or try disconnecting the application that you have started and start it again as a fresh..it will run.
 
 ## THE GLIMPSE OF HOW THIS APP LOOKS
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/da90eccb-4d9d-4c0f-ad90-ab3ea734d779.jpg" width="100" height="200">
 
 ## IF YOU HAVE PROBLEM/DOUBT WHILE INSTALLATION OR ANYTHING YOU CAN RAISE THE ISSUE OR CONNECT WITH ME ON LINKEDIN 
 <a href="https://www.linkedin.com/in/raju-lorence-murmu-875628223/">Raju Lorence Murmu</a>

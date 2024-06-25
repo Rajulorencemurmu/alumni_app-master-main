@@ -25,12 +25,7 @@ If you are a Student/employee, or current or prospective student you are welcome
 
 ## THE GLIMPSE OF HOW THIS APP LOOKS
 <img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/da90eccb-4d9d-4c0f-ad90-ab3ea734d779.jpg" width="100" height="200">
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/a9d07604-557a-414e-ba53-8c9502ea2cab.jpg" width="100" height="200">
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/2991c435-a06b-4e51-99d1-d132e6e86b1b.jpg" width="100" height="200">
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/f5af6e8b-b0bd-49a5-ac74-ac67b4e5cea0.jpg" width="100" height="200">
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/3db0c419-2020-4d0a-a9e4-cf972b8b1657.jpg" width="100" height="200">
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/6a05174f-cf30-43f7-ae79-f826c7f74455.jpg" width="100" height="200">
-<img src="https://github.com/Rajulorencemurmu/alumni_app-master/assets/101400321/20b2dec6-e561-4126-9559-5f331914caad.jpg" width="100" height="200">
+
 
 ## IF YOU HAVE PROBLEM/DOUBT WHILE INSTALLATION OR ANYTHING YOU CAN RAISE THE ISSUE OR CONNECT WITH ME ON LINKEDIN 
 <a href="https://www.linkedin.com/in/raju-lorence-murmu-875628223/">Raju Lorence Murmu</a>

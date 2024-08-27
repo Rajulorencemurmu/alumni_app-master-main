@@ -25,7 +25,11 @@ If you are a Student/employee, or current or prospective student you are welcome
 
 ## THE GLIMPSE OF HOW THIS APP LOOKS
 
-<img src="![admin-login](https://github.com/user-attachments/assets/abe9e20c-f391-4e74-ba96-6c5b7d179fe2)
+<img src="![admin-login](https://github.com/user-attachments/assets/abe9e20c-f391-4e74-ba96-6c5b7d179fe2.jpg)
+"/>
+<img src="![admin-login](https://github.com/user-attachments/assets/abe9e20c-f391-4e74-ba96-6c5b7d179fe2.jpg)
+"/>
+<img src="![admin-login](https://github.com/user-attachments/assets/abe9e20c-f391-4e74-ba96-6c5b7d179fe2.jpg)
 "/>
 
 ## IF YOU HAVE PROBLEM/DOUBT WHILE INSTALLATION OR ANYTHING YOU CAN RAISE THE ISSUE OR CONNECT WITH ME ON LINKEDIN 

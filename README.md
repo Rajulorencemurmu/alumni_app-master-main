@@ -1,7 +1,3 @@
-Here's a structured and refined README for your "My Alumni Network" GitHub repository:
-
----
-
 # My Alumni Network
 
 My Alumni Network is a cross-platform mobile application designed for both Android and iOS, built using React Native and MongoDB. This app allows users to create profiles, connect with friends, view their locations, chat, manage events, play games, update profiles, search for jobs, and much more.

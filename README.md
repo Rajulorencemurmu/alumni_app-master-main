@@ -60,6 +60,7 @@ Scan the QR code with your Expo app. If it doesn't work, try restarting the app 
 
 ## Preview
 ![Admin Login Page](assets/admin-login.jpeg)
+![Dashboard Login Page](assets/dashboard.jpeg)
 
 
 ## Troubleshooting

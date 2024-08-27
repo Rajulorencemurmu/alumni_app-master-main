@@ -59,9 +59,9 @@ npm start
 Scan the QR code with your Expo app. If it doesn't work, try restarting the app or disconnecting and reconnecting your device.
 
 ## Preview
-![Admin Login Page](assets/admin-login.jpeg)
-![Dashboard Login Page](assets/dashboard.jpeg)
 <img src="assets/admin-login.jpeg" width="128"/>
+<img src="assets/dashboard.jpeg" width="128"/>
+<img src="assets/teams.jpeg" width="128"/>
 
 ## Troubleshooting
 If you encounter any issues during installation or have any questions, feel free to [raise an issue](https://github.com/rajulorencemurmu/my-alumni-network/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/raju-lorence-murmu).

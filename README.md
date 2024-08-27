@@ -25,6 +25,9 @@ If you are a Student/employee, or current or prospective student you are welcome
 
 ## THE GLIMPSE OF HOW THIS APP LOOKS
 
+<img src="![admin-login](https://github.com/user-attachments/assets/abe9e20c-f391-4e74-ba96-6c5b7d179fe2)
+"/>
+
 ## IF YOU HAVE PROBLEM/DOUBT WHILE INSTALLATION OR ANYTHING YOU CAN RAISE THE ISSUE OR CONNECT WITH ME ON LINKEDIN 
 <a href="https://www.linkedin.com/in/raju-lorence-murmu-875628223/">Raju Lorence Murmu</a>
 
